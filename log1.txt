@@ -1,0 +1,24 @@
+
+[2023-07-24 00:17:46.061897] Имя функции: __init__; аргументы: (<__main__.Student object at 0x000001AF08BFDF90>, 'Ruoy', 'Eman', 'm') и {}; возвращаемое значение: None
+[2023-07-24 00:17:46.061897] Имя функции: __init__; аргументы: (<__main__.Student object at 0x000001AF08BFDA50>, 'Ivan', 'Ivanov', 'm') и {}; возвращаемое значение: None
+[2023-07-24 00:19:19.221544] Имя функции: __init__; аргументы: (<__main__.Student object at 0x000002868ACA7C90>, 'Ruoy', 'Eman', 'm') и {}; возвращаемое значение: None
+[2023-07-24 00:19:19.221544] Имя функции: __init__; аргументы: (<__main__.Student object at 0x000002868ACA7B50>, 'Ivan', 'Ivanov', 'm') и {}; возвращаемое значение: None
+[2023-07-24 00:19:19.221544] Имя функции: __init__; аргументы: (<__main__.Reviewer object at 0x000002868ACA7FD0>, 'Petr', 'Smit') и {}; возвращаемое значение: None
+[2023-07-24 00:19:19.221544] Имя функции: __init__; аргументы: (<__main__.Reviewer object at 0x000002868ACAC150>, 'Nataly', 'Egorova') и {}; возвращаемое значение: None
+[2023-07-24 00:19:19.222544] Имя функции: rate_hw; аргументы: (<__main__.Reviewer object at 0x000002868ACA7FD0>, <__main__.Student object at 0x000002868ACA7C90>, 'Python', 4) и {}; возвращаемое значение: None
+[2023-07-24 00:19:19.222544] Имя функции: rate_hw; аргументы: (<__main__.Reviewer object at 0x000002868ACA7FD0>, <__main__.Student object at 0x000002868ACA7C90>, 'Python', 6) и {}; возвращаемое значение: None
+[2023-07-24 00:19:19.222544] Имя функции: rate_hw; аргументы: (<__main__.Reviewer object at 0x000002868ACA7FD0>, <__main__.Student object at 0x000002868ACA7B50>, 'Python', 10) и {}; возвращаемое значение: None
+[2023-07-24 00:19:19.222544] Имя функции: rate_hw; аргументы: (<__main__.Reviewer object at 0x000002868ACAC150>, <__main__.Student object at 0x000002868ACA7C90>, 'Python', 9) и {}; возвращаемое значение: None
+[2023-07-24 00:19:19.222544] Имя функции: __init__; аргументы: (<__main__.Lecturer object at 0x000002868ACAC0D0>, 'Dmitry', 'Calt') и {}; возвращаемое значение: None
+[2023-07-24 00:19:19.222544] Имя функции: __init__; аргументы: (<__main__.Lecturer object at 0x000002868ACAC0D0>, 'Dmitry', 'Calt') и {}; возвращаемое значение: None
+[2023-07-24 00:19:19.223544] Имя функции: __init__; аргументы: (<__main__.Lecturer object at 0x000002868ACAC250>, 'Kira', 'Palm') и {}; возвращаемое значение: None
+[2023-07-24 00:19:19.223544] Имя функции: __init__; аргументы: (<__main__.Lecturer object at 0x000002868ACAC250>, 'Kira', 'Palm') и {}; возвращаемое значение: None
+[2023-07-24 00:19:19.223544] Имя функции: rate_lector; аргументы: (<__main__.Student object at 0x000002868ACA7C90>, <__main__.Lecturer object at 0x000002868ACAC0D0>, 'Python', 5) и {}; возвращаемое значение: None
+[2023-07-24 00:19:19.223544] Имя функции: rate_lector; аргументы: (<__main__.Student object at 0x000002868ACA7B50>, <__main__.Lecturer object at 0x000002868ACAC0D0>, 'Python', 4) и {}; возвращаемое значение: None
+[2023-07-24 00:19:19.223544] Имя функции: rate_lector; аргументы: (<__main__.Student object at 0x000002868ACA7C90>, <__main__.Lecturer object at 0x000002868ACAC250>, 'Python', 9) и {}; возвращаемое значение: None
+[2023-07-24 00:19:19.224543] Имя функции: avg_grades; аргументы: (<__main__.Student object at 0x000002868ACA7C90>,) и {}; возвращаемое значение: 6.3
+[2023-07-24 00:19:19.224543] Имя функции: avg_grades; аргументы: (<__main__.Student object at 0x000002868ACA7B50>,) и {}; возвращаемое значение: 10.0
+[2023-07-24 00:19:19.224543] Имя функции: avg_grades_all_students; аргументы: ([<__main__.Student object at 0x000002868ACA7C90>, <__main__.Student object at 0x000002868ACA7B50>], 'Python') и {}; возвращаемое значение: 8
+[2023-07-24 00:19:19.224543] Имя функции: avg_grades; аргументы: (<__main__.Lecturer object at 0x000002868ACAC0D0>,) и {}; возвращаемое значение: 4.5
+[2023-07-24 00:19:19.224543] Имя функции: avg_grades; аргументы: (<__main__.Lecturer object at 0x000002868ACAC250>,) и {}; возвращаемое значение: 9.0
+[2023-07-24 00:19:19.225544] Имя функции: avg_grades_all_lectors; аргументы: ([<__main__.Lecturer object at 0x000002868ACAC0D0>, <__main__.Lecturer object at 0x000002868ACAC250>], 'Python') и {}; возвращаемое значение: 7
